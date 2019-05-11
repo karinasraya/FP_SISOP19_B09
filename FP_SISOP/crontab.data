@@ -1,0 +1,4 @@
+15 * * * * /bin/bash bashme.sh >> hasilbashdaemon3.txt
+08 21 10 5 5 /bin/bash bashme2.sh >> hasilbashdaemon2.txt
+02 11 10 5 5 /bin/bash bashme2.sh
+03 11 10 5 5 /bin/bash bashme.sh
